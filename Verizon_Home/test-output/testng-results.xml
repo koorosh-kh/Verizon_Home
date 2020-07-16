@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Verizon_home_page" duration-ms="135373" started-at="2020-07-16T16:33:12 EDT" finished-at="2020-07-16T16:35:27 EDT">
+    <groups>
+    </groups>
+    <test name="Verizon" duration-ms="66672" started-at="2020-07-16T16:33:12 EDT" finished-at="2020-07-16T16:34:18 EDT">
+      <class name="RunVer.DataProvVer">
+        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:RunVer.DataProvVer@23faf8f2]" name="beforeClass" is-config="true" duration-ms="9253" started-at="2020-07-16T16:33:12 EDT" finished-at="2020-07-16T16:33:21 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.sprint.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:RunVer.DataProvVer@23faf8f2]" name="f" duration-ms="12606" started-at="2020-07-16T16:33:21 EDT" data-provider="dp1" finished-at="2020-07-16T16:33:34 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kuku]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kian]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:RunVer.DataProvVer@23faf8f2]" name="f" duration-ms="14484" started-at="2020-07-16T16:33:35 EDT" data-provider="dp1" finished-at="2020-07-16T16:33:49 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hello]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:RunVer.DataProvVer@23faf8f2]" name="f" duration-ms="12506" started-at="2020-07-16T16:33:51 EDT" data-provider="dp1" finished-at="2020-07-16T16:34:03 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1111]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2222]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:RunVer.DataProvVer@23faf8f2]" name="f" duration-ms="12334" started-at="2020-07-16T16:34:05 EDT" data-provider="dp1" finished-at="2020-07-16T16:34:17 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Selenium]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Java]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:RunVer.DataProvVer@23faf8f2]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-07-16T16:34:18 EDT" finished-at="2020-07-16T16:34:18 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- RunVer.DataProvVer -->
+    </test> <!-- Verizon -->
+    <test name="Verizon!" duration-ms="68643" started-at="2020-07-16T16:34:18 EDT" finished-at="2020-07-16T16:35:27 EDT">
+      <class name="RunVer.DataProvVer">
+        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:RunVer.DataProvVer@4493d195]" name="beforeClass" is-config="true" duration-ms="7663" started-at="2020-07-16T16:34:18 EDT" finished-at="2020-07-16T16:34:26 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.sprint.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:RunVer.DataProvVer@4493d195]" name="f" duration-ms="14546" started-at="2020-07-16T16:34:26 EDT" data-provider="dp1" finished-at="2020-07-16T16:34:41 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kuku]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kian]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:RunVer.DataProvVer@4493d195]" name="f" duration-ms="15742" started-at="2020-07-16T16:34:41 EDT" data-provider="dp1" finished-at="2020-07-16T16:34:57 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hello]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:RunVer.DataProvVer@4493d195]" name="f" duration-ms="14457" started-at="2020-07-16T16:34:58 EDT" data-provider="dp1" finished-at="2020-07-16T16:35:12 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1111]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2222]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:RunVer.DataProvVer@4493d195]" name="f" duration-ms="14121" started-at="2020-07-16T16:35:12 EDT" data-provider="dp1" finished-at="2020-07-16T16:35:27 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Selenium]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Java]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:RunVer.DataProvVer@4493d195]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-07-16T16:35:27 EDT" finished-at="2020-07-16T16:35:27 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- RunVer.DataProvVer -->
+    </test> <!-- Verizon! -->
+  </suite> <!-- Verizon_home_page -->
+</testng-results>
